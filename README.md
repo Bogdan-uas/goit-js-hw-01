@@ -1,2 +1,3 @@
 # goit-js-hw-01
-My first JS project
+
+Could you please check it correctly?
